@@ -8,3 +8,4 @@
 - [x] includes/calendar.php
 - [x] includes/datetimeplus.php
 - [x] includes/abstract-object.php
+- [x] includes/comments.php
