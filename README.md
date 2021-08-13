@@ -9,5 +9,6 @@
 - [x] includes/datetimeplus.php
 - [x] includes/abstract-object.php
 - [x] includes/user.php
+- [x] includes/session.php
 - [x] includes/photograph.php
 - [x] includes/comments.php
