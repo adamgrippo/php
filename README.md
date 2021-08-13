@@ -15,3 +15,4 @@
 - [x] includes/session.php
 - [x] includes/photograph.php
 - [x] includes/comments.php
+- [x] includes/pagination.php
